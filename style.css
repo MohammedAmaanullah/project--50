@@ -1,0 +1,11 @@
+.header{
+background-color: gray;
+color:cyan;
+flex-wrap : wrap
+}
+
+.image{
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
